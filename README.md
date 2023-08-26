@@ -1,6 +1,8 @@
 # Bank_Forms (Bulgarian Interface)
 A complete Windows Forms project that has all the checks. It allows registration and login and it is able to send funds from one account to another within the network. It uses JSON file to save all profile info (yes it is not secure).
 
+*** Note that customers.json file is not included in this rep ***
+
 This form includes the following forms:
 
 Form1 - This is the tsarting form with the following options: Login, Register, Exit;
